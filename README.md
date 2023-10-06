@@ -1,4 +1,4 @@
-# World Bank Development Indicators: GDP Analysis in Power BI
+# Worldwide GDP Analysis in Power BI
 
 Welcome! This is project conducted an extensive analysis of global GDP data since 1961. This analysis utilizes Power BI to illuminate insights on economic performance, GDP comparisons across countries, and future economic trend predictions.
 

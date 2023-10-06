@@ -1,6 +1,10 @@
 # Worldwide GDP Analysis in Power BI
 
 Welcome! This is project conducted an extensive analysis of global GDP data since 1961. This analysis utilizes Power BI to illuminate insights on economic performance, GDP comparisons across countries, and future economic trend predictions.
+  <p float="left">
+    <img src="./photo/gdp_growth_2022.png" width="400" />
+    <img src="./photo/gdp_high_income.png" width="400" /> 
+  </p>
 
 ## 📊 Data Source
 

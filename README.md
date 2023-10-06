@@ -22,7 +22,7 @@ Welcome! This is project conducted an extensive analysis of global GDP data sinc
 
 1. **Clone the Repository**: 
     ```bash
-    git clone [[Your Repository Link]](https://github.com/chunman906/World_GDP_Performance/)
+    git clone git@github.com:chunman906/World_GDP_Performance.git
     ```
 2. **Accessing the Project**: After cloning, simply navigate to the directory and open the `.pbix` file with Power BI Desktop.
 3. **Interact with the Data**: The Power BI dashboards are designed to be interactive, allowing users to drill down, filter, and glean meaningful insights from the displayed data.
